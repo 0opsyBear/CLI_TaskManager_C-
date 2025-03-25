@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mehvmhnt2Ls=",
+  "success": true,
+  "projectFilePath": "/home/d3s/RiderProjects/Task_Manager/Task_Manager/Task_Manager.csproj",
+  "expectedPackageFiles": [
+    "/home/d3s/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
