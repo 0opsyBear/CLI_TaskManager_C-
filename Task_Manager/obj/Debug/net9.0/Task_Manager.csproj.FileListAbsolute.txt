@@ -1,0 +1,17 @@
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Task_Manager
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Task_Manager.deps.json
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Task_Manager.runtimeconfig.json
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Task_Manager.dll
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Task_Manager.pdb
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.GeneratedMSBuildEditorConfig.editorconfig
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.AssemblyInfoInputs.cache
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.AssemblyInfo.cs
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.csproj.CoreCompileInputs.cache
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.dll
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/refint/Task_Manager.dll
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.pdb
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.genruntimeconfig.cache
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/ref/Task_Manager.dll
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.csproj.AssemblyReference.cache
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Man.6CFE5139.Up2Date
