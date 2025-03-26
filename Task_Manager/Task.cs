@@ -139,25 +139,32 @@ public class Task_User
         }
     }
 
-    private void readTask()
+    public List<Task_User>  readTask()
     {
-        List<Task_User> tasks = new List<Task_User>();
+        List<Task_User>? tasks = new List<Task_User>();
         var pathFile = @"/home/d3s/RiderProjects/Task_Manager/Task_Manager/tasks.json";   
-        
-        if (File.Exists(pathFile))
+        FileInfo fileInfo = new FileInfo(pathFile);
+        if (File.Exists(pathFile) && fileInfo.Length > 0)
         {
-            FileInfo fileInfo = new FileInfo(pathFile);
-            
-            if (fileInfo.Length > 0)
+            string jsonContent = File.ReadAllText(pathFile);
+            tasks = JsonConvert.DeserializeObject<List<Task_User>>(jsonContent);
+            for (int i = 0; i < tasks.Count; i++)
             {
-                
+                Console.WriteLine($"Tarea {i+1}. {tasks[i].Tittle}, {tasks[i].Description}, {tasks[i].StartTime}, {tasks[i].EndTime}");
             }
-            tasks = JsonConvert.DeserializeObject<List<Task_User>>(pathFile) ?? new List<Task_User>();
-            
         }
         else
         {
-            File.WriteAllText(pathFile, "");
+            Console.WriteLine("No hay tareas.");
         }
+        return tasks;
+    }
+
+    public void deleteTask()
+    {
+        List<Task_User> tasks = readTask();
+        Console.WriteLine("Ingrese el titulo: ");
+        
+
     }
 }

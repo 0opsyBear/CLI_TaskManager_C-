@@ -15,3 +15,4 @@
 /home/d3s/RiderProjects/Task_Manager/Task_Manager/bin/Debug/net9.0/Newtonsoft.Json.dll
 /home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.csproj.AssemblyReference.cache
 /home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Man.6CFE5139.Up2Date
+/home/d3s/RiderProjects/Task_Manager/Task_Manager/obj/Debug/net9.0/Task_Manager.sourcelink.json

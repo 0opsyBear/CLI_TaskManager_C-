@@ -27,7 +27,7 @@ class Program
                         task.CreateTask();
                         break;
                     case 2:
-                        Console.WriteLine("opcion 2.");
+                        task.readTask();
                         break;
                     case 3:
                         Console.WriteLine("opcion 3.");
